@@ -1,0 +1,102 @@
+
+
+* {
+  margin: 0
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/843/110/381/gaussian-blur-gradient-aqua-abstract-wallpaper-preview.jpg");
+  background-size: cover;
+
+}
+
+h1 {
+  color: white;
+  font-family: "Oswald", sans-serif;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.registartion-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  color: #fff;
+  font-size: 18px;
+  font-family: sans-serif;
+  background-image: url("https://images.wallpapersden.com/image/download/abstract-gradient-hd-shapes_bWVlbWmUmZqaraWkpJRnamtlrWZpaWU.jpg");
+  background-size: cover;
+  padding: 25px;
+  height: 350px;
+ 
+
+}
+
+.registartion-form input,
+.registartion-form select,
+.registartion-form textarea {
+  border: none;
+  padding: 9px;
+  margin-top: 10px;
+  font-family: sans-serif;
+}
+
+.registartion-form input:focus,
+.registartion-form textarea:focus {
+  outline: none;
+  box-shadow: 0 0 10px rgb(228, 228, 228), 0 0 10px rgb(224, 224, 224);
+}
+
+.registartion-form .submit {
+  width: 100%;
+  padding: 8px 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: #333;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.registartion-form .submit:hover {
+  box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+.border{
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 15px;
+  background-image: url("https://images.wallpapersden.com/image/download/abstract-gradient-hd-shapes_bWVlbWmUmZqaraWkpJRnamtlrWZpaWU.jpg");
+  background-size: cover;
+  margin-bottom: 85px;;
+
+
+}
+.container1{
+  background-color: black;
+  color: #ffffff;
+  height: 90px;
+  width: 1320px;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
+.black{
+  height: 115px;
+  width: 1397px;
+  background-color: black;
+  margin-right: 15px;
+  margin-top: 0px;;
+  margin-bottom: 87px;;
+  margin-left: 10px;;
+  margin: 50px;
+}
+.head{
+  color: white;
+  margin-right: 0px;;
+  margin-left: 800px;
+}
